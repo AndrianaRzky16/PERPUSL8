@@ -1,5 +1,5 @@
 <h1>Perpusku Library App</h1>
-<h6 class="text-gray">Created by Pangestu-k</h6>
+<h6 class="text-gray">Created by AndrianaRzky16</h6>
 
 ## Detail Aplikasi
 
